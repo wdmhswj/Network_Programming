@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/client.dir/hello_client.c.o -o ../bin/client 

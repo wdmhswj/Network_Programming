@@ -1,0 +1,4 @@
+/home/timeat/code_repositories/Network_Programming/hello/build/CMakeFiles/server.dir
+/home/timeat/code_repositories/Network_Programming/hello/build/CMakeFiles/client.dir
+/home/timeat/code_repositories/Network_Programming/hello/build/CMakeFiles/edit_cache.dir
+/home/timeat/code_repositories/Network_Programming/hello/build/CMakeFiles/rebuild_cache.dir
